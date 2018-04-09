@@ -1,0 +1,28 @@
+body{
+    font-size: 30;
+}
+#figma{
+    background-color: blue;
+    width: 500px;
+    height: 50px;
+    font-size: 30;
+    color: white;
+    padding: 20;
+    margin: auto;
+   padding-bottom: 70px;
+   
+
+}
+#down{
+    padding-top: 50px;
+    font:20
+}
+.time{
+    background-color: blue;
+    color:white;
+    padding:30;
+    margin: auto;
+    width: 350px;
+    height: 50px;
+}
+
